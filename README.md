@@ -1,2 +1,2 @@
-Your site is live at https://786shaahid.github.io/digitalalarm/
+Visit live at https://786shaahid.github.io/digitalalarm/
 
